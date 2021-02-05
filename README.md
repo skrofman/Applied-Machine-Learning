@@ -1,6 +1,6 @@
-# Applied Machine Learning!
+# Assignments for DATA 310!
 
-Assignments for DATA 310:
+
 
 <a href="https://drive.google.com/uc?export=view&id=1BdkPd5TPel2dvpmKRVGs9qYYfgkMvgha">
   <img src="https://drive.google.com/uc?export=view&id=1BdkPd5TPel2dvpmKRVGs9qYYfgkMvgha" width="300" height="400">

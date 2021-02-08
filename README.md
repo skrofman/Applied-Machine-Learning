@@ -1,8 +1,7 @@
 ## Assignments for DATA 310!
 ### This is where I will post my projects:
 
-##### 1. Hello World.
-![transparent-green-sea-turtle-cartoon-turtle-green-sea-turtle-5e0e1fde9dfd52 3887414415779839666471](https://user-images.githubusercontent.com/67921324/107275547-e72dc900-6a1f-11eb-977d-625f7dbf401f.jpg)
+##### 1. Hello World. <img src="https://user-images.githubusercontent.com/67921324/107276197-aa160680-6a20-11eb-8ffe-8132b19cee3e.png" alt="turtle" width="200" height="150">
 
 
 

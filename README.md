@@ -23,8 +23,22 @@
     * Monte Carlo Simulation
     * Histograms, Normal Distributions
 
+[Lecture 3:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310__Lecture_3.ipynb)
+  * Imputations
+  * Random
+  * Scaling
+  * More Monte Carlo
 
 
+[Lecture 4:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_4.ipynb)
+  * More More Monte Carlo
+  * More Probability
+
+
+[Lecture 5:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_5.ipynb)
+  * More More More Monte Carlo
+    * Iterations with Monte Carlo
+  * Turtle drawings and animations
 
 
 ***

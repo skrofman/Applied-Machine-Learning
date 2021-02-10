@@ -3,6 +3,8 @@
 
 ##### 1. Hello World. <img src="https://user-images.githubusercontent.com/67921324/107276197-aa160680-6a20-11eb-8ffe-8132b19cee3e.png" alt="turtle" width="120" height="80">
 
+##### 2. [Lab 1 Working](https://github.com/skrofman/Applied-Machine-Learning/blob/master/Lab1_working.ipynb)
+
 ***
 
 ## Lectures:

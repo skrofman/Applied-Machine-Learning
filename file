@@ -1,2 +1,20 @@
-#file
-I will put file here.
+# Lecture 1
+
+##  <font color='blue'>Data Science</font>
+<style> #margins > p { margin-top: -50px; } </style>
+
+- Data is information, a perception of our own existence and everything surrounding us.
+- The amount of data that we can record nowadays exceeds anything accomplished before.
+- 1 bit  = 0 or 1.
+- letter = 1 byte = 8 bits, such as for example $(0,1,1,0,0,1,1,0).$
+
+<font color='red'>Critical Thinking:</font> We need many "letters" to encode information! **How many "letters" do we have?**
+<font color='red'>Hint:</font> Use the multiplication principle.
+
+
+- 1000 letters = 1kbyte = $10^3$ bytes.
+- 1 mil. letters = 1 mbyte = $10^3$ kbytes.
+- 1 gbyte = 1 bil. letters = $10^3$ mbytes.
+- 1 tbyte = $10^3$ gbytes, (tbyte means terabyte).
+- 1 pbyte = $10^3$ tbytes, (pbyte means petabyte).
+- 1 ebyte = $10^3$ pbytes, (ebyte means exabyte).

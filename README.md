@@ -9,9 +9,9 @@
    * Types of Data
    * Basic Python
       * Graphing
-         * iloc, arange
+        * iloc, arange
       * Importing data
-         * numpy, pandas
+        * numpy, pandas
       * Dealing with discrete (nominal) data
       * How to replace missing values
          *  NaN

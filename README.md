@@ -5,16 +5,17 @@
 
 
 ## Lectures:
-[Lecture 1](http://github.com/skrofman/Applied-Machine-Learning/DATA_310_Lecture_1.ipynb)
-* Types of Data
-* Basic Python
-    * Graphing
-      * iloc, arange
-    * Importing data
-      * numpy, pandas
-    * Dealing with discrete (nominal) data
-    * How to replace missing values
-      * NaN
+[Lecture 1](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_1.ipynb)
+   * Types of Data
+   * Basic Python
+      * Graphing
+         * iloc, arange
+      * Importing data
+         * numpy, pandas
+      * Dealing with discrete (nominal) data
+      * How to replace missing values
+         *  NaN
+
 
 
 ***

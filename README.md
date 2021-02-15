@@ -42,6 +42,17 @@
   * More More More Monte Carlo
     * Iterations with Monte Carlo
   * Turtle drawings and animations
+  
+[Lecture 6:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_6_Spring_2021.ipynb)
+  * Data Standardizations
+    * Quantiles
+    * Displaying Quantiles
+  * Ordinary Least Squares Regression
+  
+[Lecture 7:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_7_Spring_2021.ipynb)
+  * More Data Standardizations
+    * More Quantiles
+  * Linear Fit
 
 
 ***

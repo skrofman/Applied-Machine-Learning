@@ -5,6 +5,8 @@
 
 ##### 2. [Lab 1 Working](https://colab.research.google.com/github/skrofman/Applied-Machine-Learning/blob/master/Lab1_working.ipynb)
 
+##### 3. [Lab 2 Working](https://github.com/skrofman/Applied-Machine-Learning/blob/master/Lab2_working.ipynb)
+
 ***
 
 ## Lectures:

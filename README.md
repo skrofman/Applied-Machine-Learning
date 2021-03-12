@@ -58,6 +58,12 @@
     * More Quantiles
   * Linear Fit
 
+[Lecture 19:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_19_Spring_2021.ipynb)
+  * Support Vector Regression
+  * Regression Trees
+  * Random Forests
+  * KFold Validation
+
 
 ***
 

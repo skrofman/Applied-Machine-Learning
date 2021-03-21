@@ -11,6 +11,8 @@
 
 ##### 5. [Lab 4 Working](https://github.com/skrofman/Applied-Machine-Learning/blob/master/lab4_working.ipynb)
 
+##### 6. [Midterm Working](https://github.com/skrofman/Applied-Machine-Learning/blob/master/midterm_working.ipynb)
+
 ***
 
 ## Lectures:

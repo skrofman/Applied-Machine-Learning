@@ -73,3 +73,6 @@
 
 <a href="https://drive.google.com/uc?export=view&id=1BdkPd5TPel2dvpmKRVGs9qYYfgkMvgha">
   <img src="https://drive.google.com/uc?export=view&id=1BdkPd5TPel2dvpmKRVGs9qYYfgkMvgha" width="300" height="400">
+  
+  ## Other Useful Stuff:
+  [Poisson Python Function](https://github.com/skrofman/Applied-Machine-Learning/blob/master/Poisson.ipynb)

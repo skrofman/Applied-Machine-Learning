@@ -15,6 +15,8 @@
 
 ##### 7. [Lab 5 Working](https://github.com/skrofman/Applied-Machine-Learning/blob/master/lab5_working.ipynb)
 
+##### 8. [Lab 6 Working](https://github.com/skrofman/Applied-Machine-Learning/blob/master/Lab6_working.ipynb)
+
 ***
 
 ## Lectures:

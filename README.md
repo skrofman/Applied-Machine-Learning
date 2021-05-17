@@ -154,6 +154,52 @@
   * Random Forests
   * KFold Validation
 
+[Lecture 21:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_21_Spring_2021.ipynb)
+  * Root Mean Squared Error
+  * Do we need scaling for Random Forest? NO!!
+  * Kfold example
+
+[Lecture 22:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_22_Spring_2021.ipynb)
+  * Classification Algorithms
+    * We want to predict the corect class given the input features
+  * Logistic Regression
+  * K-Nearest Neighbors Algorithm
+    * The classification is decided by the votes of the  𝑘 -nearest neighbors, an odd natural number such as  2𝑝+1 .
+    * The votes can be weighted (if we want) by the inverse of the Euclidean distance.
+
+[Lecture 23:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_23_Spring_2021(1).ipynb)
+  * Classification Algorithms
+  * Confusion Matrix
+    * Visualization of the Classification Model
+  * KNN
+  * Support Vector Machine Classification
+  * Naive Bayes Classifier
+  * Decision Tree classifier
+  * Random Forest
+
+[Lecture 24:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_24_Spring_2021.ipynb)
+  * Classification Algorithms - Real Data Application with Validation (Breast Cancer Dataset)
+    * Creating a validation function
+
+[Lecture 25:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_25_Spring_2021.ipynb)
+  * SVM with Radial Basis Function Kernel (the kernel "trick")
+  * Naive Bayes Classifier
+  * Breast Cancer Dataset Validation Function
+  * The Receiver Operating Characteristic (ROC)
+    * False Positives/Negatives
+
+[Lecture 27:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_27_Spring_2021.ipynb)
+  * Example of Artificial Neural Network (based on SKLearn library)
+
+[Lecture 28:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_29_(Notebook_I)_Spring_2021.ipynb)
+  * Neural Networks for Classification
+  * The Rosenbrock Function
+  * Convolutional Neural Networks Example
+
+[Lecture 29:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_29_(Notebook_II)_Spring_2021.ipynb)
+  * Examples of optimization with different algorithms
+  * Convolutional Neural Network on the MNIST Data
+
 
 ***
 

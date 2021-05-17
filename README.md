@@ -180,6 +180,8 @@
 [Lecture 24:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_24_Spring_2021.ipynb)
   * Classification Algorithms - Real Data Application with Validation (Breast Cancer Dataset)
     * Creating a validation function
+    * [Classification Overview](https://github.com/skrofman/Applied-Machine-Learning/blob/master/Classification_Techniques_Examples.ipynb)
+    * [Classification Comparison (NB, DT, RF)](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Classification_3_classes_NB_DT_RF.ipynb)
 
 [Lecture 25:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_25_Spring_2021.ipynb)
   * SVM with Radial Basis Function Kernel (the kernel "trick")
@@ -199,6 +201,36 @@
 [Lecture 29:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_29_(Notebook_II)_Spring_2021.ipynb)
   * Examples of optimization with different algorithms
   * Convolutional Neural Network on the MNIST Data
+
+[Lecture 30:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_30_(Notebook_I)_Spring_2021.ipynb)
+  * 
+
+[Lecture 31:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_31_Spring_2021.ipynb)
+  * 
+
+[Lecture 32:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_32_Spring_2021.ipynb)
+  * 
+
+[Lecture 33:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_33_Spring_2021_(1).ipynb)
+  * 
+
+[Lecture 34:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_34_Spring_2021.ipynb)
+  * 
+
+[Lecture 35:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_35_Spring_2021.ipynb)
+  * 
+
+[Lecture 36:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_36_Spring_2021.ipynb)
+  * 
+
+[Lecture 37:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_37_Spring_2021.ipynb)
+  * 
+
+[Lecture 38:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_38_Spring_2021.ipynb)
+  * 
+
+[Lecture 39:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_39_Spring_2021.ipynb)
+  * 
 
 
 ***

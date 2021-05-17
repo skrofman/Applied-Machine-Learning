@@ -72,25 +72,25 @@
 
 [Lecture 8:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_8_Spring_2021.ipynb)
 
-[Lecture 9:]
+[Lecture 9:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/Data_310_Lecture_9_Spring_2021.ipynb)
 
-[Lecture 10:]
+[Lecture 10:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_10_Spring_2021.ipynb)
 
-[Lecture 11:]
+[Lecture 11:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_11_Spring_2021_(1).ipynb)
 
-[Lecture 12:]
+[Lecture 12:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_12_Spring_2021(1).ipynb)
 
-[Lecture 13:]
+[Lecture 13:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_13_Spring_2021.ipynb)
 
-[Lecture 14:]
+[Lecture 14:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_14_Spring_2021(1).ipynb)
 
-[Lecture 15:]
+[Lecture 15:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_15_Spring_2021.ipynb)
 
-[Lecture 16:]
+[Lecture 16:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_16_Spring_2021.ipynb)
 
-[Lecture 17:]
+[Lecture 17:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_17_Spring_2021.ipynb)
 
-[Lecture 18:]
+[Lecture 18:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_18_Spring_2021.ipynb)
 
 [Lecture 19:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_19_Spring_2021.ipynb)
   * Support Vector Regression

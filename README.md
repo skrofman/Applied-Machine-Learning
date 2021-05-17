@@ -95,25 +95,58 @@
   * Polynomial Regression
 
 [Lecture 12:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_12_Spring_2021(1).ipynb)
-  * 
+  * The Effects of Regularization
+    * How do we know we may need regularization?
+  * Why we need data scaling?
+    * In linear models we need scaling so we can combine feature values that are on the same units of measurement.
+  * Polynomial Regression
+    * Main idea: Linear combination of different powers of the feature values.
 
 [Lecture 13:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_13_Spring_2021.ipynb)
-  * 
+  * Elastic Net Regularization
+  * Polynomial Regression
+  * How do we know we are on the right track?
+   * Use Train and Test Sets
+   * Use Regularization.
+   * Compute (R)MSE on the test set.
+   * Compute the coefficient of determination on the test set.
+   * Determine the normality of the residuals by using a test statistic (such as Shapiro-Wilk or Kolmogorov-Smirnov), density plots and quantile-quantile plots.
+ * Model Validation via k-Fold Cross-Validations
 
 [Lecture 14:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_14_Spring_2021(1).ipynb)
-  * 
+  * Validation- we want an unbiased estimator
+  * Overfit: if MSE on the Train set is much lower than the MSE on the Test set.
+  * Model Validation via k-Fold Cross-Validations
 
 [Lecture 15:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_15_Spring_2021.ipynb)
-  * 
+  * Model Validation via k-Fold Cross-Validations
 
 [Lecture 16:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_16_Spring_2021.ipynb)
-  * 
+  * Model Validation via k-Fold Cross-Validations
+    * Make a cross-validated comparison between SVR, OLS, Lasso and RIDGE regression.
+  * Support Vector Regression
+  * Regression Trees
+    * Main Idea: Things are different for subsets in the data. Nonlinear relationships may exist and we should be able to accommodate them.
+  * Ensemble Learning - Random Forests
+    * More resilient to outliers, better for external validity. You can also provide information on how certain or uncertain you are about a result.
 
 [Lecture 17:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_17_Spring_2021.ipynb)
-  * 
+  * Support Vectors is a method used in Machine Learning for both regression and classification problmes.
+    * The main idea is to map the input features into a higher dimensional space and then, in that higher dimensional space, address the problem to solve.
+    * We have at least two different hyperparameters in this case such as 𝜖 and  𝐶.
+  * Regression Trees
+  * Ensemble Learning - Random Forests
+  * Support Vector Regression with Slack Variables
+  * Decision Tree Regression
+  * Random Forest
 
 [Lecture 18:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_18_Spring_2021.ipynb)
-  * 
+  * Support Vector Regression
+  * Regression Trees
+  * Ensemble Learning - Random Forests
+  * Support Vector Regression with Slack Variables
+  * Decision Tree Regression
+  * Random Forest
 
 [Lecture 19:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_19_Spring_2021.ipynb)
   * Support Vector Regression

@@ -71,26 +71,49 @@
   * Linear Fit
 
 [Lecture 8:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_8_Spring_2021.ipynb)
+  * Ordinary Least Squares Regression (Linear Regression)
+  * Linear Fit and Slope
 
 [Lecture 9:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/Data_310_Lecture_9_Spring_2021.ipynb)
+  * Ordinary Least Squares (OLS)
+  * Multiple Linear Regression (Linear models with more features)
+  * Linear vs Non-linear models
 
 [Lecture 10:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_10_Spring_2021.ipynb)
+  * Linear Regression and Residuals
+  * Linear vs Non-linear models
+    * When OLS may not work
+    * A solution for rank defficient Multiple Linear Regression: Regularization
+    * Main Idea: minimize the sum of the square residuals plus a constraint on the vector of weights 
 
 [Lecture 11:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_11_Spring_2021_(1).ipynb)
+  * What does Rank Deficiency means and why we need Regularization
+  * L1 Regdularization (LASSO)
+  * L2 Regularization (RIDGE)
+  * Elastic Net Regularization
+  * Main idea: if we get strong multiple linear correlations among the input features, we NEED regularization because we are in "rank deffficient situation"
+  * Polynomial Regression
 
 [Lecture 12:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_12_Spring_2021(1).ipynb)
+  * 
 
 [Lecture 13:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_13_Spring_2021.ipynb)
+  * 
 
 [Lecture 14:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_14_Spring_2021(1).ipynb)
+  * 
 
 [Lecture 15:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_15_Spring_2021.ipynb)
+  * 
 
 [Lecture 16:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_16_Spring_2021.ipynb)
+  * 
 
 [Lecture 17:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_17_Spring_2021.ipynb)
+  * 
 
 [Lecture 18:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_18_Spring_2021.ipynb)
+  * 
 
 [Lecture 19:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_19_Spring_2021.ipynb)
   * Support Vector Regression

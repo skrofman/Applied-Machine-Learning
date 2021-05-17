@@ -203,35 +203,71 @@
   * Convolutional Neural Network on the MNIST Data
 
 [Lecture 30:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_30_(Notebook_I)_Spring_2021.ipynb)
-  * 
+  * Neural Networks for Classification
+  * Examples of optimization with different algorithms
+  * Convolutional Neural Networks Example
 
 [Lecture 31:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_31_Spring_2021.ipynb)
-  * 
+  * Examples of optimization with different algorithms
+  * Convolutional Neural Networks Example
 
 [Lecture 32:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_32_Spring_2021.ipynb)
-  * 
+  * Convolutional Neural Networks
+    * Image Recognition Example
+    * Another Example - Cifar10
 
 [Lecture 33:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_33_Spring_2021_(1).ipynb)
-  * 
+  * Another design example for CNN's with the MNIST data (hint: the accuracy improves)
+  * Dimensionality Reduction
+    * Algorithms for feature selection and feature extraction.
+    * Regression Problems
+    * Classification Problems
 
 [Lecture 34:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_34_Spring_2021.ipynb)
-  * 
+  * Dimensionality Reduction
+    * Big data is characterized not just by a large number of observations, but also by very large number of input features. Very often the problem is that not all features in the data are important for solving the regression or the classification problems. At the same time, it is difficult to computationally accomodate too many input features into the model.
+    * Feature Selection: What data should you put into your model? For linear regression models the variable selection approaches include backward elimination, forward selection, bidirectional elimination and penalized regression techniques such as LASSO or Elastic Net.
+    * General Heuristics: Reducing the number of variables can greatly aid interpretability, reduce the chances your violating key assumptions, and let you go beyond simple prediction. Furthermore, smaller models (parsimonious models) are easier to update and interpret - every column of data you add is a column of data you have to collect in the future if you ever want to use your model again. Less is better - don’t invest resources to collect data you don’t need!
+  * Penalized regression can be used for variable selection
+  * Relationship between Coefficients and Regularization
 
 [Lecture 35:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_35_Spring_2021.ipynb)
-  * 
+  * Dimensionality Reduction and Feature Extraction
+    * We can summarize the contribution of a subset of features based on finding the direction of the biggest variablity or variance. Such directions, that summarize most of the variablility in the data, are called principal components.
+  * Classification Problems
 
 [Lecture 36:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_36_Spring_2021.ipynb)
-  * 
+  * Linear Projective Methods
+  * Main Common Idea: Preserve important qualitative properties from the original features and summarize them by using fewer dimensions. The projective methods are primarily used for classification problems.
+  * Principal Component Analysis
+  * Linear Discriminant Analysis
+  * Nonlinear Projective Methods
+    * 1. t-SNE (t-distributed Stochastic Neighbor Embedding)
+    * 2. UMAP (Uniform Manifold Approximation and Projection)
 
 [Lecture 37:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_37_Spring_2021.ipynb)
-  * 
+  * Grid Search Algorithms
+    * Main Idea: We can use algorthms for discrete optimization in order to estimate the value for the hyperparameters and thus complete the model selection process.
+  * Swarm Algorithms - Particle Swarm Optimization
+  * Simulated Annealing
 
 [Lecture 38:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_38_Spring_2021.ipynb)
-  * 
+  * Natural Language Processing
+  * Use speech and words along with computer run algorithms.
+  * Regular Expressions (regex)
+  * The Bag of Words model (BoW)
+  * NLTK Examples
+    * Application to Amazon customer reviews
+      * Naive Bayes Classifier and Random Forest Classifier
+    * Application to wine ratings based on customer reviews
 
 [Lecture 39:](https://github.com/skrofman/Applied-Machine-Learning/blob/master/DATA_310_Lecture_39_Spring_2021.ipynb)
-  * 
-
+  * More Natural Language Processing (NLP)
+  * Probabilistic Language Modeling
+  * Text Pre-Processing
+  * CBOW (continuous Bag of Words)
+  * Global Vectors for Word Representations (GloVe)
+  * Word2Vec
 
 ***
 
